@@ -14,5 +14,6 @@ Organize your courses by years, topics, or universities, however you like! -->
 <h2>TOEFL iBT</h2>
 <ul>
 <li><a href="../assets/pdf/assignment_1.pdf">Assignment 1</a></li>
+<li><a href="../assets/txt/assignment1_ans_key.txt">Assignment 1 Answer Key</a></li>
 <li><a href="../assets/pdf/assignment2.pdf">Assignment 2</a></li>
 </ul>
