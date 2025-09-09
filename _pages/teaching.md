@@ -17,4 +17,5 @@ Organize your courses by years, topics, or universities, however you like! -->
 <li><a href="../assets/txt/assignment1_ans_key.txt">Assignment 1 Answer Key</a></li>
 <li><a href="../assets/pdf/assignment2.pdf">Assignment 2</a></li>
 <li><a href="../assets/txt/assignment2_ans_key.txt">Assignment 2 Answer Key</a></li>
+<li><a href="../assets/pdf/assignment3.pdf">Assignment 3</a></li>
 </ul>
